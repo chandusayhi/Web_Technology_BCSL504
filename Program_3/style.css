@@ -1,0 +1,71 @@
+/* Styling for <h2> tag */
+h2 {
+    color: #2c3e50;
+    font-size: 28px;
+    text-align: center;
+}
+
+/* Styling for <h3> tag */
+h3 {
+    color: #e74c3c;
+    font-size: 24px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+/* Styling for <hr> tag */
+hr {
+    border: 1px solid #7f8c8d;
+    margin: 20px 0;
+}
+
+/* Styling for <p> tag */
+p {
+    color: #34495e;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 20px;
+}
+
+/* Styling for <div> tag */
+div {
+    background-color: #f0f0f0;
+    padding: 15px;
+    margin: 20px;
+    border: 1px solid #bdc3c7;
+}
+
+/* Styling for <span> tag */
+span {
+    color: #8e44ad;
+    font-weight: bold;
+}
+
+/* Styling for <time> tag */
+time {
+    color: #27ae60;
+    font-size: 18px;
+    display: block;
+    margin: 20px;
+}
+
+/* Styling for <img> tag */
+img {
+    border: 2px solid #3498db;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
+/* Styling for <a> tag */
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+/* Styling for <a> tag on hover */
+a:hover {
+    color: #e67e22;
+    text-decoration: underline;
+}
